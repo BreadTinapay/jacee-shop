@@ -1,5 +1,5 @@
 # jacee shop
 
 
-# open in vscode
-# go to src/index.html and run with live server
+open in vscode
+go to puclic/index.html and run with live server
